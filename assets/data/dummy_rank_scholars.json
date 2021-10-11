@@ -1,0 +1,66 @@
+[
+    {
+        "name": "Tiago",
+        "ranking": 8300,
+        "mean_slp": 200,
+        "today_slp": 110,
+        "trophies": 2026,
+        "total_slp": 1320
+    },
+    {
+        "name": "Tiago",
+        "ranking": 8100,
+        "mean_slp": 242,
+        "today_slp": 120,
+        "trophies": 2120,
+        "total_slp": 1600
+    },
+    {
+        "name": "Tiago",
+        "ranking": 8200,
+        "mean_slp": 430,
+        "today_slp": 130,
+        "trophies": 1935,
+        "total_slp": 1500
+    },
+    {
+        "name": "Tiago",
+        "ranking": 8000,
+        "mean_slp": 540,
+        "today_slp": 150,
+        "trophies": 1520,
+        "total_slp": 1480
+    },
+    {
+        "name": "Tiago",
+        "ranking": 7800,
+        "mean_slp": 380,
+        "today_slp": 170,
+        "trophies": 1840,
+        "total_slp": 1100
+    },
+    {
+        "name": "Tiago",
+        "ranking": 7500,
+        "mean_slp": 290,
+        "today_slp": 190,
+        "trophies": 1866,
+        "total_slp": 1570
+    },
+    {
+        "name": "Tiago",
+        "ranking": 7200,
+        "mean_slp": 352,
+        "today_slp": 230,
+        "trophies": 1920,
+        "total_slp": 1150
+    },
+    {
+        "name": "Tiago",
+        "ranking": 7000,
+        "mean_slp": 300,
+        "today_slp": 250,
+        "trophies": 2008,
+        "total_slp": 1180
+    }
+]
